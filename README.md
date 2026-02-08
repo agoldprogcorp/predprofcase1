@@ -47,6 +47,8 @@
 │     ├─ electricscheme.png       # Электросхема STATION[1]
 │     └─ cinematicscheme.jpg      # Кинематическая схема STATION[1]
 │
-└─ README.md                     
+└─ README.md       
+
+```
 
 > По вопросам обращайтесь по Pull request'ам.
