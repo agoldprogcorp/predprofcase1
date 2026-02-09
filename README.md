@@ -1,5 +1,7 @@
 # Решение кейса 1 от команды echo("637_NrF3D")
 
+https://youtu.be/RYdrtwMCvhc - демонстрация решения кейса.
+
 Репозиторий содержит код (Arduino `.ino`), 3D-модели/чертежи и схемы для двух частей проекта: **CUBESAT** и **STATION**.
 
 ## Структура репозитория
@@ -16,14 +18,14 @@
 │  ├─ drawings/                   # PDF-чертежи деталей/сборок[1]
 │  │  ├─ Сборка.pdf
 │  │  ├─ balka_central - balka_central.pdf
-│  │  ├─ bok002 (Solid) - bok002 (Solid).pdf
+│  │  ├─ bok002 (Solid) _ bok002 (Solid).pdf
 │  │  ├─ bok005 _ bok005.pdf
 │  │  ├─ dno001 _ dno001.pdf
-│  │  ├─ krysha001 _ krysha001.pdf
+│  │  ├─ krysha001 _ krysha001 .pdf
 │  │  ├─ palka002 _ palka002.pdf
 │  │  └─ platforma _ platforma.pdf
 │  │
-│  └─ stls/                       # Экспортированные STL для печати[1]
+│  └─ stls/                       # STL для 3D-печати[1]
 │     ├─ balki.stl
 │     ├─ bok1.stl
 │     ├─ bok2.stl
@@ -35,19 +37,26 @@
 │     ├─ platforma__platforma.stl
 │     └─ stolb.stl
 │
+├─ photos/                        # Фотографии макета/сборки[1]
+│  ├─ image.png
+│  ├─ image1.png
+│  ├─ image2.png
+│  └─ image3.png
+│
 ├─ schemes/                       # Схемы (блок/электрика/кинематика)[1]
 │  ├─ cubesat/
-│  │  ├─ blockscheme.png          # Блок-схема CUBESAT[1]
-│  │  ├─ electricalcircuit.png    # Электрическая схема/цепь CUBESAT[1]
-│  │  └─ electricscheme.png       # Электросхема CUBESAT[1]
+│  │  ├─ blockscheme.png
+│  │  ├─ electricalcircuit.png
+│  │  └─ electricscheme.png
 │  │
 │  └─ station/
-│     ├─ blockscheme.png          # Блок-схема STATION[1]
-│     ├─ electricalcircuit.png    # Электрическая схема/цепь STATION[1]
-│     ├─ electricscheme.png       # Электросхема STATION[1]
-│     └─ cinematicscheme.jpg      # Кинематическая схема STATION[1]
+│     ├─ blockscheme.png
+│     ├─ electricalcircuit.png
+│     ├─ electricscheme.png
+│     └─ cinematicscheme.jpg
 │
-└─ README.md       
+└─ README.md                      # Описание проекта[1]
+       
 
 ```
 
